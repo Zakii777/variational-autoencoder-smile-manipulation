@@ -70,15 +70,15 @@ This vector is then added or subtracted from a latent representation to control 
 
 ### Original Reconstruction
 
-<img src="images/original_reconstructed_v2.png" width="300">
+![Original Reconstruction](original_reconstructed_v2.png)
 
 ### Increased Smile
 
-<img src="images/more_smiley_v2.png" width="300">
+![More Smile](more_smiley_v2.png)
 
 ### Decreased Smile
 
-<img src="images/less_smiley_v2.png" width="300">
+![Less Smile](less_smiley_v2.png)
 
 ---
 
